@@ -1,4 +1,4 @@
-# Fabric Chaincode dev-mode environment
+# Fabric network dev-mode environment
 
 Normally chaincode is started and maintained by Peer. However in “dev” mode, chaincode is built and started by the user.
 
