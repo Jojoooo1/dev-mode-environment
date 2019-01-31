@@ -6,7 +6,7 @@ set -ev
 DOCKER_COMPOSER_PATH=docker-compose.yml
 
 CHANNEL_NAME=myc
-CHAINCODE_NAME_FOLDER=tracking-code
+CHAINCODE_NAME_FOLDER=blockchain-chaincode-tracking-code
 CHAINCODE_NAME=tracking-code
 CONTAINER_IP=10.6.0.1:7052 # set in docker-composer
 
