@@ -2,7 +2,7 @@
 
 Normally chaincode is started and maintained by Peer. However in “dev” mode, chaincode is built and started by the user.
 
-This project has been created especially for rapid code/build/run/debug cycle of tracking-project](https://github.com/intelipost/blockchain-chaincode-tracking-code) chaincode. However you can easily incorporate it with other chaincodes.
+This project has been created especially for rapid code/build/run/debug cycle of [tracking-project](https://github.com/intelipost/blockchain-chaincode-tracking-code) chaincode. However you can easily incorporate it with other chaincodes.
 
 ## Prerequisites
 You need to have Hyperledger Fabric 1.4.0 installed ([available at this link](https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html#install-samples-binaries-and-docker-images))
