@@ -1,4 +1,4 @@
-# Fabric network dev-mode environment
+# Hyperledger Fabric network dev-mode environment
 
 Normally chaincode is started and maintained by Peer. However in “dev” mode, chaincode is built and started by the user.
 
