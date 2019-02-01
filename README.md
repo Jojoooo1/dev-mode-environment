@@ -17,7 +17,7 @@ cd ../../
 ```
 
 ## Use
-For avoiding containers collisions you can remove all your running containers:
+For avoiding container collisions you can remove all your running containers:
 ```bash
 ./reset.sh
 ```
